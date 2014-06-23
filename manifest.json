@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "Novo Locastyle",
-  "description" : "Um framework JS e CSS para projetos web. Criado primeiramente para produtos Locaweb e distribuído para utilizar em seus projetos web",
+  "name": "Documentação Locaweb Style",
+  "description" : "Um framework de JS e CSS para projetos web. Framework front-end com uma interface usada por milhares de usuários.",
   "version": "1.0",
   "browser_action": {
-    "default_title": "Novo Locastyle",
+    "default_title": "Documentação Locaweb Style",
     "default_icon": "128.png",
     "default_popup": "popup.html"
   },
