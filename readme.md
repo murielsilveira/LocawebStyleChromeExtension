@@ -5,4 +5,4 @@ A extensão do [Locaweb Style](http://locaweb.github.io/locawebstyle) para o Chr
 
 ![](http://i.imgur.com/1daAoFS.png)
 
-![](http://i.imgur.com/TACvuZS.png)
+![](http://i.imgur.com/ABC8LvY.jpg)
