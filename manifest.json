@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Documentação Locaweb Style",
   "description" : "Um framework de JS e CSS para projetos web. Framework front-end com uma interface usada por milhares de usuários.",
-  "version": "1.0",
+  "version": "1.0.2",
   "browser_action": {
     "default_title": "Documentação Locaweb Style",
     "default_icon": "128.png",
